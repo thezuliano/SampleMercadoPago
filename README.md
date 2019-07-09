@@ -1,2 +1,0 @@
-# SampleMercadoPago
-Created with CodeSandbox
